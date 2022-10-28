@@ -1,0 +1,19 @@
+.btn_list {
+    margin: 10px 0 10px 0;
+}
+
+.btn_item {
+    background-color: #ffffff;
+    color: #555555;
+    border: 1px solid #282c34;
+    padding: 10px;
+    text-transform: uppercase;
+    margin-right: 10px;
+
+}
+
+.selected {
+    color: #ffffff;
+    background-color: #555555;
+
+}

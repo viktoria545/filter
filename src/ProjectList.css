@@ -1,0 +1,13 @@
+.projects_list {
+    column-count: 3;
+    line-height: 2;
+
+}
+
+.itemProjects {
+    width: 300px;
+}
+
+.itemProjects img {
+    width: 100%;
+}
